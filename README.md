@@ -2,7 +2,7 @@
 
 A modern, responsive website dedicated to promoting healthy lifestyles through nutrition, fitness, and wellness resources.
 
-github_link:
+github_link:https://github.com/Jacquesmakonga/WEDE-POE-2
 ## Project Overview
 
 HealthyLife is a comprehensive health and wellness website designed to help individuals adopt and maintain healthier lifestyles. The site provides evidence-based information across three main pillars: Nutrition, Fitness, and Wellness. With a clean, modern design and fully responsive layout, HealthyLife offers an engaging user experience across all devices.
